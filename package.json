@@ -1,0 +1,27 @@
+{
+  "name": "heroku-helloworld",
+  "version": "0.0.0",
+  "description": "This example app is so cool.",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ecc-weizhi/heroku-helloworld"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "weizhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ecc-weizhi/heroku-helloworld/issues"
+  },
+  "homepage": "https://github.com/ecc-weizhi/heroku-helloworld",
+  "dependencies": {
+    "express": "^4.5.1",
+    "logfmt": "^1.1.2"
+  }
+}
